@@ -32,3 +32,6 @@ I used Excel to compare:
 - High school graduation rates for low-income students in Fort Wayne and Baltimore
 - High school graduationrates for high-income students in Fort Wayne and Baltimore
 
+I did not have full access to all of the various counties in Baltimore and Fort Wayne, which impacts data, but the rates for high school graduation across income brackets in the two cities were actually fairly similar. All income brackets in both cities had graduation rates 95 < x > 70, although Baltimore low-income students had slightly higher graduation rates than Fort Wayne students (0.73 - 0.87 versus 0.70 - 0.80). For high-income students, the rates were very very similar, but two counties in Baltimore had rates of 0.94 and 0.95, while the highest graduation rate for a county in Fort Wayne was 0.93.
+
+Furthermore, Fort Wayne is not as wealthy as Baltimore, according to my analysis. Although there were households in every income bracket from the data set, Fort Wayne's data skewed left (towards lower incomes) while Baltimore's data skewed right (towards higher incomes). More data is needed to conduct further, more in-depth research, because household income does play a huge role in a student's ability to attend high school, do well, stay in school, and graduate. So the results were surprising, but could be attributed to human error as well as lack of enough data.
